@@ -1,0 +1,191 @@
+body {
+    font-size: 1.2em;
+    background-color: #300822;
+    color: rgb(32, 27, 27);
+}
+
+.header {
+  color: #000;
+  font-size: 18px;
+  padding-bottom: 35px;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: #0f0505;
+}
+
+.main-content-section {
+    padding: 80px 70px;
+    margin-right: 100px;
+}
+
+
+
+.about-my-section {
+	padding: 5px 5px;
+	margin: 40px 0 50px 0;
+    position: relative;
+    top: -80px;
+}
+
+.about-my-profession {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    color: #000;
+	line-height: 16px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.my-name {
+    font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+    line-height: 55px;
+    color: #000;
+    margin: 20px 0 20px 0;
+}
+
+
+.about-my-description {
+   width: 400px;
+   font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 25px;
+    color: #595959;
+}
+
+.main-content-title {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 27px;
+	color: #000;
+	margin-bottom: 20px;
+    position: relative;
+    top: -50px;
+}
+
+.my-work-experience-company-block {
+    position: relative;
+    top: -50px;
+}
+
+
+.my-work-experience-company {
+	color: #b0b;
+}
+
+
+.my-work-experience-position {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 20px;
+	margin: 0 0 10px 0; 
+}
+
+.my-work-experience-period {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 15px;
+	color: #000;
+	margin: 0 0 10px 0;
+}
+
+.my-work-experience-duties {
+	padding: 0 0 0 18px;
+}
+
+.my-education-section {
+    padding-bottom: 40px;
+}
+
+.my-work-experience-university {
+	color: #b0b;
+    margin-top: 30px;
+}
+
+.sidebar-section {
+	background-color: #fbceb1;
+	padding: 40px 0;
+	width: 400px;
+}
+
+.contacts-section {
+	margin: 50px 0 0 40px;
+}
+
+.contacts-section-link {
+    text-decoration: none;
+}
+
+a, a:hover {
+    outline: none;
+    text-decoration: underline;
+    color: #225ea3;
+  }
+  
+
+.tech-skills-section {
+	margin: 50px 0 0 40px;
+}
+
+.sidebar-title {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 27px;
+	color: #000;
+	margin-bottom: 20px;
+}
+
+.contacts-section-type{
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 24px;
+	color:#000;
+	margin-right: 5px;
+}
+
+.contacts-section-link{
+	color: #b0b;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 24px;
+}
+
+.tech-skills-list {
+	padding: 0 0 0 17px;
+}
+
+.tech-skills-item-text {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
