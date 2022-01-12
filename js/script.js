@@ -13,5 +13,4 @@ answers[2] = prompt('Как вас зовут?');
 
 console.log(answers);
 
-//Задаем пользователю вопросс
-const result = confirm("Вы еще здесь?");
+

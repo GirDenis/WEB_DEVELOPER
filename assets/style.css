@@ -117,7 +117,7 @@ body {
 .sidebar-section {
 	background-color: #fbceb1;
 	padding: 40px 0;
-	width: 400px;
+	width: 349px;
 }
 
 .contacts-section {
@@ -160,7 +160,7 @@ a, a:hover {
 	color: #b0b;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 18px;
+	font-size: 16px;
 	line-height: 24px;
 }
 
